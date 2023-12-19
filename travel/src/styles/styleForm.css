@@ -1,0 +1,44 @@
+.app {
+
+    margin: 20px;
+  }
+  
+  .travel-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .travel-form input,
+  .travel-form textarea,
+  .travel-form button {
+    margin-bottom: 10px;
+  }
+
+  .travel-entry {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .travel-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .ti{
+    margin-bottom: 30px;
+    font-size: 30px;
+    padding: 10px;
+  
+  }
+
+  .de{
+    background-color: antiquewhite;
+    text-align: center;
+  }
+  .bg{
+    background-color: #ccc;
+    font-size: 29px;
+  }
